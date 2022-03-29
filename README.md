@@ -6,8 +6,8 @@ Each installation takes 1 square of map space
 
 **Military**
 1 Command Center
-3 Spy Centers
-5 ICBM Silos    (Nukes)
+2 Spy Centers
+3 ICBM Silos    (Nukes)
 3 ABM Sites     (Anti Nukes)
 
 **Income**
@@ -30,9 +30,8 @@ The installations:
 5. Farms - Make $200 per turn. 50 Health
 6. Car Plants - Make $500 per turn. 50 Health
 7. Electronics Factory - Make $1000 per turn. 50 Health
-8. Construction Facilities - Allows you to build and repair intallations. 50 Health
-9. Research Center - Reserch upgrades
-
+8. Construction Facilities - Allows you to build and repair intallations. 2 operations per facility 75 Health
+9. Research Center - Research upgrades. 1 research per center 75 Health
 ---
 
 Upgrades:
@@ -42,14 +41,18 @@ Upgrades:
 4. ABM Reliability & Effectiveness
 5. 2 New Income Sources (Social Media Company and Tech Company)
 6. Shield Effectiveness
+7. Number of nukes fired per silo 
+8. Number of ABMs fired per silo
 
 ---
 
 Both players start with the same amount of resources:
 $5000
 3 spies
-2 ICBMs
+3 ICBMs
 6 ABMs
+
+Sites are at their base state, 1 nuke/ABM per silo
 
 --- 
 

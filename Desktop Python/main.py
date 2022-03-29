@@ -1,4 +1,8 @@
 from game import *
+from graphics import income, start
 
-def main():
-    start()
+if __name__ == "__main__":
+    pass
+
+def start():
+    pass
